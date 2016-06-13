@@ -1,0 +1,30 @@
+
+
+module.exports = [
+  {
+    "name": "Rihanna",
+    "title": "Diamonds",
+    "price": 10
+  },
+  {
+    "name": "Eminem",
+    "title": "Marshall",
+    "price": 12
+  },
+  {
+    "name": "Shakira",
+    "title": "Wolf",
+    "price": 9
+  },
+  {
+    "name": "Britney",
+    "title": "Lolipop",
+    "price": 7
+  },
+  {
+    "name": "Kid Rock",
+    "title": "Drums",
+    "price": 10
+  }
+]
+
